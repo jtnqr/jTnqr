@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jTnqr
-- 👀 I’m interested in Android Development.
+- 👀 I’m interested in Android Development, Machine Learning.
 - 🌱 I’m currently learning Python, Bash.
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me -
