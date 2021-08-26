@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jTnqr
 - 👀 I’m interested in Android Development, Machine Learning.
 - 🌱 I’m currently learning Python, Bash.
-- 💞️ I’m looking to collaborate on -
-- 📫 How to reach me -
+
+My repositories are bunch of not so useful stuff but they are my journey to learn programming!
 
 <!---
 jTnqr/jTnqr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
