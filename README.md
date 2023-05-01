@@ -8,7 +8,7 @@ Hello there! My name is Julius W. and I'm an undergrad Informatics Engineering s
 - Artifical Intelligence 🤖
 - Android Development 📱
 - Back-End Development 💻
-- 
+
 ## My Finished Project:
 
 - [The Electionn](https://github.com/Jtnqr/the-electionn): an online voting system built with CodeIgniter 4. The project includes features such as student views, admin dashboard views, database management system, final votes, and more. It was designed to select OSIS chairperson and has a secure authentication system.
