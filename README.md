@@ -1,19 +1,19 @@
 # Welcome to my Github Profile!
 
-Hello there! My name is Julius W. and I'm an undergrad Informatics Engineering student that is learning new stuff everyday towards the fastly changing technology for the future.
+Hello! I'm Julius W., an ambitious undergraduate student pursuing a degree in Informatics Engineering. My passion for staying up-to-date with the latest technological advancements has led me to constantly expand my knowledge and skills, shaping me into a confident and competent individual ready to contribute to the future of technology.
 
-## My Interests: 
+## Here are some topics that I am interested in:
 
-- Internet of Things 🌐
-- Artifical Intelligence 🤖
-- Android Development 📱
-- Back-End Development 💻
+- The Internet of Things (IoT) 🌐
+- Artificial Intelligence (AI) 🤖
+- Android app development 📱
+- Back-end development 💻
 
 ## My Finished Project:
 
-- [The Electionn](https://github.com/Jtnqr/the-electionn): an online voting system built with CodeIgniter 4. The project includes features such as student views, admin dashboard views, database management system, final votes, and more. It was designed to select OSIS chairperson and has a secure authentication system.
+- [The Electionn](https://github.com/Jtnqr/the-electionn): The Election is an online voting system constructed using CodeIgniter 4. The project boasts of a range of features including student views, admin dashboard views, a database management system, final votes, and more. Its primary objective is to elect the OSIS chairperson, and it comes with a secure authentication system to ensure the integrity of the voting process.
 
-## Currently Learning: 
+## I am currently learning the following programming languages:
 
 - Python 🐍
 - Java ☕️
@@ -21,4 +21,6 @@ Hello there! My name is Julius W. and I'm an undergrad Informatics Engineering s
 - Dart (Flutter) 📱
 - Shell languages (sh, bash, zsh) 🐚
 
-Check out my GitHub profile to see some of my projects and code contributions. While many of the repositories may not be useful, they are a testament to my journey in learning programming. From humble beginnings to now, each repository represents a stepping stone in my growth as a developer. So don't be too hard on me if you find some messy or outdated code - we all have to start somewhere! 😊
+Feel free to ask me anything related to these languages.
+
+Take a look at my GitHub profile to check out some of my projects and code contributions. Although some of the repositories may not be practical, they showcase my progress in learning programming. Every repository signifies a milestone in my development as a programmer, from my humble beginnings to the present. Please don't judge me too harshly if you come across some disorganized or outdated code - everyone has to start somewhere! 😊
