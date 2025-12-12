@@ -1,26 +1,28 @@
-# Welcome to my Github Profile!
+### // System Configuration: Julius W.
 
-Hello! I'm Julius W., an ambitious undergraduate student pursuing a degree in Informatics Engineering. My passion for staying up-to-date with the latest technological advancements has led me to constantly expand my knowledge and skills, shaping me into a confident and competent individual ready to contribute to the future of technology.
+```yaml
+user_profile:
+  role: "Backend & System Engineer"
+  focus: ["Infrastructure", "Automation", "Efficiency"]
 
-## Here are some topics that I am interested in:
+tech_stack:
+  languages: ["Python", "Java", "Golang"]
+  environment: ["Debian Linux", "Docker", "Vim"]
 
-- The Internet of Things (IoT) 🌐
-- Artificial Intelligence (AI) 🤖
-- Android app development 📱
-- Back-end development 💻
-
-## My Finished Project:
-
-- [The Electionn](https://github.com/Jtnqr/the-electionn): The Election is an online voting system constructed using CodeIgniter 4. The project boasts of a range of features including student views, admin dashboard views, a database management system, final votes, and more. Its primary objective is to elect the OSIS chairperson, and it comes with a secure authentication system to ensure the integrity of the voting process.
-
-## I am currently learning the following programming languages:
-
-- Python 🐍
-- Java ☕️
-- Kotlin 🎯
-- Dart (Flutter) 📱
-- Shell languages (sh, bash, zsh) 🐚
-
-Feel free to ask me anything related to these languages.
-
-Take a look at my GitHub profile to check out some of my projects and code contributions. Although some of the repositories may not be practical, they showcase my progress in learning programming. Every repository signifies a milestone in my development as a programmer, from my humble beginnings to the present. Please don't judge me too harshly if you come across some disorganized or outdated code - everyone has to start somewhere! 😊
+featured_projects:
+  - BouncyAsep:
+      type: "Game Development"
+      tech: "Java & LibGDX"
+      desc: "A Flappy Bird look-alike game project."
+      
+  - Home_Infrastructure:
+      type: "Self-Hosted / DevOps"
+      tech: "Docker Compose, Tunneling, Linux"
+      desc: "Orchestrating services & bypassing CGNAT for public access."
+```
+<div align="left"> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
+</div>
